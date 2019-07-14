@@ -1,5 +1,7 @@
 # Nuxt Bulma Template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SafeStudio/bulma-template.svg)](https://greenkeeper.io/)
+
 A [Nuxt.js](https://github.com/nuxt/nuxt.js) starter project template without the distraction of a complicated development environment.
 
 ## Prerequisites
